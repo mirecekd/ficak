@@ -34,7 +34,7 @@ I created model of holder attachable into T21 radiators (only 66mm thick) and un
 
 ## Photos
 
-![ficak](pic/IMG_20220915_125042.jpg){:width="250px"}
+![ficak](pic/IMG_20220915_125042.jpg)
 ![ficak](pic/IMG_20220915_125049.jpg)
 ![ficak](pic/IMG_20220915_125354.jpg)
 ![ficak](pic/IMG_20220915_125513.jpg)
