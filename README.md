@@ -9,9 +9,9 @@ As part of multiple energy saving activities in our house I did not find any "co
 ## 3D models
 I created model of holder attachable into T21 radiators (only 66mm thick) and universal case for controller and 40mmx40mm fan.
 
-
 ![model](pic/IMG_20220915_125354.jpg)
 
+It is possible to connect several fans in row only by adding another "fan" module - fan module is just paralel cable with fan and connectors.
 
 ### tinkercad models & STLs
 
@@ -21,6 +21,8 @@ I created model of holder attachable into T21 radiators (only 66mm thick) and un
 ## Schematics
 
 ![schematics](conf/ficak-jidelna-wiring-schema.png)
+
+NodeMCU VIN can handle up to 18V I'm using 12V <20dB fans.
 
 ### NodeMCU tasmota configuration
 
