@@ -22,7 +22,7 @@ It is possible to connect several fans in row only by adding another "fan" modul
 
 ![schematics](conf/ficak-jidelna-wiring-schema.png)
 
-NodeMCU VIN can handle up to 18V I'm using 12V <20dB fans.
+NodeMCU VIN should handle up to 18V. I'm using 12V input voltage and <20dB fans.
 
 ### NodeMCU tasmota configuration
 
