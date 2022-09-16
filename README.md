@@ -2,12 +2,12 @@
 Booster for T21 radiators.
 
 ## Introduction
-As part of multiple energy saving activities in our house I did not find any "cool" solution for airflow booster attachable nicely to T21 radiators.
+As part of multiple energy saving activities in our house I did not find any "cool" solution for airflow booster attachable nicely to T21 radiators. And have to create one:
 
 ![ficak](pic/IMG_20220916_113225.jpg)
 
 ## 3D models
-I created my own model of holder attachable into T21 radiators (only 66mm thick) and universal case for controller and 40mmx40mm fan.
+I created model of holder attachable into T21 radiators (only 66mm thick) and universal case for controller and 40mmx40mm fan.
 
 
 ![schematics](pic/IMG_20220915_125354.jpg)
@@ -34,7 +34,22 @@ I created my own model of holder attachable into T21 radiators (only 66mm thick)
 
 ## Photos
 
-[photos](pic)
+![ficak](pic/IMG_20220915_125042.jpg)
+![ficak](pic/IMG_20220915_125049.jpg)
+![ficak](pic/IMG_20220915_125354.jpg)
+![ficak](pic/IMG_20220915_125513.jpg)
+![ficak](pic/IMG_20220915_165905.jpg)
+![ficak](pic/IMG_20220915_202426.jpg)
+![ficak](pic/IMG_20220915_202434.jpg)
+![ficak](pic/IMG_20220915_202439.jpg)
+![ficak](pic/IMG_20220916_000941.jpg)
+![ficak](pic/IMG_20220916_100747.jpg)
+![ficak](pic/IMG_20220916_100855.jpg)
+![ficak](pic/IMG_20220916_100905.jpg)
+![ficak](pic/IMG_20220916_101416.jpg)
+![ficak](pic/IMG_20220916_101422.jpg)
+![ficak](pic/IMG_20220916_110906.jpg)
+![ficak](pic/IMG_20220916_113225.jpg)
 
 ## Measurements
 
