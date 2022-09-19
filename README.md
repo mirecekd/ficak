@@ -18,7 +18,7 @@ It is possible to connect several fans in row only by adding another "fan" modul
 [files](stl)
 
 
-## Schematics
+## Circuit Diagram
 
 ![schematics](conf/ficak-jidelna-wiring-schema.png)
 
