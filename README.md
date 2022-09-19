@@ -33,6 +33,9 @@ NodeMCU VIN should handle up to 18V. I'm using 12V input voltage and <20dB fans.
 
 ![tasmota](conf/ficak-jidelna-HA.png)
 
+### HA automations
+
+TBD
 
 ## Photos
 
